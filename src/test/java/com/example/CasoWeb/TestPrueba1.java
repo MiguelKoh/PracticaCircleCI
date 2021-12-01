@@ -12,7 +12,7 @@ import org.apache.commons.io.FileUtils;
 import java.io.File;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Prueba1 {
+public class TestPrueba1 {
   private WebDriver driver;
   private String baseUrl;
   private boolean acceptNextAlert = true;
